@@ -1,0 +1,23 @@
+{
+  "name": "fri-day",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaber-2021/http--res.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaber-2021/http--res/issues"
+  },
+  "homepage": "https://github.com/shaber-2021/http--res#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
